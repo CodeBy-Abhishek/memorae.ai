@@ -1,9 +1,9 @@
-# Memorae AI – Modern Redesign
+# Memorae AI – Modern Redesign 
 
 A fully redesigned and modernized UI/UX version of Memorae AI with smooth animations, clean layouts, and an elegant presentation.  
 This project focuses on enhancing visual appeal, user experience, responsiveness, and performance using a modern frontend stack.
 
----
+----
 
 ## 🚀 Features
 
